@@ -1,0 +1,23 @@
+.vs/
+Saved/
+Intermediate/
+DerivedDataCache/
+
+Build/
+
+# allow the windows icons
+!Build/Windows/*.ico
+
+
+Platforms/
+
+# allow the PS5 icons
+!Platforms/PS5/Build/sce_sys/
+
+# allow the Switch icons
+!Platforms/Switch/Build/Resources/Icons/
+# allow the Switch config
+!Platforms/Switch/Config/
+
+*.sln
+
