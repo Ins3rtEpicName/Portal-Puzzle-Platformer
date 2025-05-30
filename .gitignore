@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Files that are too large
+Content/ModularSciFi/*
+Content/ScifiInteriorBundle/SciFiInterior2/Maps/Example.umap
+Content/ScifiInteriorBundle/ModularSciFiInterior/Maps/ModularSciFiInterior_Example.umap
+Content/ScifiInteriorBundle/SciFiInteriorPack/Maps/SciFiInteriorPackExample.umap
+Content/UI_Assert/Video/*
